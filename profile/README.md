@@ -13,7 +13,3 @@
   &nbsp;·&nbsp;
   <a href="https://cendrite.com/security"><b>Security</b></a>
 </p>
-
-<p align="center">
-  <sub>C# &nbsp;·&nbsp; .NET 10 &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Electron &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; RabbitMQ &nbsp;·&nbsp; Redis &nbsp;·&nbsp; Kubernetes</sub>
-</p>
